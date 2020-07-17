@@ -18,8 +18,7 @@ You can find and get touch with me on these accounts!
 
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahkahriman&show_icons=true)
 
-[![HitCount](http://hits.dwyl.com/abdullahkahriman/abdullahkahriman.svg)](http://hits.dwyl.com/abdullahkahriman/abdullahkahriman)
-
+[![HitCount](http://hits.dwyl.com/abdullahkahriman/abdullahkahriman/abdullahkahriman.svg)](http://hits.dwyl.com/abdullahkahriman/abdullahkahriman/abdullahkahriman)
 
 <!--
 **abdullahkahriman/abdullahkahriman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
