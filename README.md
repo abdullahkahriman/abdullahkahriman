@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Abdullah Kahriman. I live in :tr:
+My name is Abdullah Kahriman. I live in Turkey.
 
 **📫 Where to find me:** 
 You can find and get touch with me on these accounts!
@@ -10,9 +10,10 @@ You can find and get touch with me on these accounts!
 [![Instagram Badge](https://img.shields.io/badge/-abdullahkahriman-purple?style=flat-square&logo=Instagram&logoColor=#C13584&link=https://www.instagram.com/_jaguar66/)](https://www.instagram.com/_jaguar66/) 
 
 ## Know / Using 🧠
-<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
-<code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
-<code><a href="https://www.jquery.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></a></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 
 
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahkahriman&show_icons=true)
