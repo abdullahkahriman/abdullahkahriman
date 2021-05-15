@@ -16,9 +16,7 @@ You can find and get touch with me on these accounts!
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 
 
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahkahriman&show_icons=true)
-
-[![HitCount](http://hits.dwyl.com/abdullahkahriman/abdullahkahriman/abdullahkahriman.svg)](http://hits.dwyl.com/abdullahkahriman/abdullahkahriman/abdullahkahriman)
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahkahriman&show_icons=false)
 
 <!--
 **abdullahkahriman/abdullahkahriman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
